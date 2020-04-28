@@ -1,0 +1,74 @@
+body{
+    background: #C6C9C9;
+   }
+
+.caja{
+    position: absolute;
+    left: 30%; 
+      
+
+}
+.titulo{
+    width: 100%;
+    background: white;
+}
+.titulo h1{
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+}
+
+.foto1{
+    width: 500px;
+    min-height: 400px;
+    background: white;
+    margin-bottom: 50px;
+}
+.foto2{
+    width: 500px;
+    min-height: 400px;
+    background: white;
+    margin-bottom: 50px;
+}
+.foto3{
+    width: 500px;
+    min-height: 400px;
+    background: white;
+    margin-bottom: 50px;
+}
+.foto4{
+    width: 500px;
+    min-height: 400px;
+    background: white;
+    margin-bottom: 50px;
+}
+
+.ftitulo{
+    height: 40px; 
+    
+}
+
+.ftitulo h2{
+width: 200px;
+height: 40px;
+display: block;
+float: left;
+margin: 3px;
+font-family: 'Tajawal', sans-serif;
+}
+.ftitulo p{
+    margin: 3px;
+    width: 40px;
+    height: 40px;
+    display: block;
+    float: right;
+}
+.imagen img{
+    height: 300px;
+    width: 500px;
+}
+.ftexto{
+
+    margin-top: -10px;
+    margin-left: 5px;
+    font-family: 'Tajawal', sans-serif;
+}
